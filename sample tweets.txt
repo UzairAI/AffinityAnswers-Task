@@ -1,0 +1,5 @@
+User1: This is a sample tweet that contains a racial SLUR.
+User2: This tweet contains two hateful words or racial slurs.
+User3: This is a clean tweet containing only good words.
+User4: This tweet contains a single HIGH profanity word.
+User5: This tweet contains a bad word and a slur.
